@@ -28,6 +28,14 @@ var frasesDisp = [
     'As pessoas têm estrelas que não são as mesmas. Para uns, que viajam, as estrelas são guias. Para outros, elas não passam de pequenas luzes.',
     'A imagem do Cruzeiro resplandece. Gigante pela própria natureza, És belo, és forte, impávido colosso, E o teu futuro espelha essa grandeza',
     'Caneta azul, azul caneta, Caneta azul tá marcada com minha letra. Caneta azul, azul caneta, Caneta azul tá marcada com minha letra',
+    'A ascensão dos reality shows, como os de culinária e de sobrevivência, transformou a televisão, oferecendo aos espectadores uma visão mais íntima da vida de pessoas comuns, enquanto geram debates sobre temas como competição, individualismo e superação.',
+    'O universo Marvel, com seus super-heróis icônicos e tramas complexas, conquistou fãs de todas as idades ao redor do mundo, criando um verdadeiro fenômeno cultural e impulsionando a indústria cinematográfica.',
+    'A indústria da música tem sido marcada pela ascensão do streaming, que revolucionou a forma como consumimos música, permitindo o acesso a um catálogo praticamente ilimitado de artistas e gêneros musicais.',
+    'A cultura gamer, antes vista como um nicho, tornou-se um fenômeno global, com jogos eletrônicos cada vez mais sofisticados e competitivos, e uma comunidade de jogadores apaixonados que participam de torneios e eventos internacionais.',
+    'A moda fast fashion, com suas coleções que se renovam a cada semana, tem sido alvo de críticas por seu impacto ambiental e social, enquanto o movimento slow fashion busca promover uma moda mais sustentável e consciente.',
+    'A influência das redes sociais na cultura pop é inegável, com plataformas como o TikTok e o Instagram moldando as tendências e impulsionando a carreira de novos artistas e criadores de conteúdo.',
+    'A cultura geek, antes considerada marginal, tornou-se mainstream, com a popularização de filmes, séries e quadrinhos baseados em histórias de ficção científica, fantasia e terror.',
+    'O movimento #MeToo, que denunciou casos de assédio e abuso sexual, impulsionou um debate global sobre o machismo e a desigualdade de gênero, levando a mudanças significativas na indústria do entretenimento e na sociedade como um todo.',
 ];
 
 $(function(){
