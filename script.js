@@ -36,6 +36,11 @@ var frasesDisp = [
     'A influência das redes sociais na cultura pop é inegável, com plataformas como o TikTok e o Instagram moldando as tendências e impulsionando a carreira de novos artistas e criadores de conteúdo.',
     'A cultura geek, antes considerada marginal, tornou-se mainstream, com a popularização de filmes, séries e quadrinhos baseados em histórias de ficção científica, fantasia e terror.',
     'O movimento #MeToo, que denunciou casos de assédio e abuso sexual, impulsionou um debate global sobre o machismo e a desigualdade de gênero, levando a mudanças significativas na indústria do entretenimento e na sociedade como um todo.',
+    'Lady Gaga é um ícone da cultura pop que transcende a música, utilizando sua arte para desafiar as normas sociais, promover a liberdade de expressão e inspirar uma nova geração de artistas.',
+    'A preservação do meio ambiente é um desafio global que exige a colaboração de todos. Reduzir o consumo de plástico, economizar energia e optar por transportes mais sustentáveis são algumas atitudes que podem fazer a diferença para um futuro mais verde.',
+    'A alimentação saudável é fundamental para manter um corpo forte e uma mente sã. Consumir frutas, legumes, verduras e grãos integrais, além de reduzir o consumo de alimentos processados e bebidas açucaradas, são hábitos que contribuem para uma vida mais longa e saudável.',
+    'A busca pela felicidade é um desejo universal, mas a felicidade não se encontra em bens materiais, e sim em relações interpessoais saudáveis, em experiências significativas e na realização pessoal.',
+    'A tecnologia está transformando o mercado de trabalho, exigindo que os profissionais se adaptem constantemente a novas ferramentas e habilidades. A educação contínua é fundamental para garantir um futuro profissional promissor.',
 ];
 
 $(function(){
